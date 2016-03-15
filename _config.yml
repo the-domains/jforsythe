@@ -1,0 +1,28 @@
+name: jforsythe
+favicon: null
+layout_spectrum: 0.4997276917565614
+typography_spectrum: 0.13498673168942332
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8133309769909829
+  lightness: 0.26839675148949027
+  saturation: 0.23850756767205894
+  rhythmicContrast: 0.13641218794509768
+purpose: []
